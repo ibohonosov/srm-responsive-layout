@@ -298,9 +298,11 @@ tr td{
 @media screen and (max-width: 768px) {
     .main {
         flex-direction: column;
+        height: 100%;
     }
     .main-product {
         margin: 36px 0px;
+
     }
     .title {
         margin-left: 10px;
