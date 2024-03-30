@@ -188,7 +188,7 @@ body {
     height: 24px;
 }
 .table {
-
+    white-space: nowrap;
     width: 100%;
     border-collapse: collapse;
 }
@@ -224,6 +224,7 @@ body {
 tr td{
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-right: 10px;
 }
 .status-active {
     display: block;
